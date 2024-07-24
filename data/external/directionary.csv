@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+mpg,milhas por galao,quantitativo,continuo
+cylinders,quantidade de cilindros ,quantitativo,continuo
+displacement,deslocamento,quantitativo,continuo
+horsepower,cavalo-vapor,quantitativo,continuo
+weight,peso,quantitativo,continuo
+acceleration,aceleracao,quantitativo,continuo
+model_year,modelo,qualitativa,nominal
+origin,origem de fabricacao,qualitativa,nominal
+name,nome do carro,qualitativa,nominal
